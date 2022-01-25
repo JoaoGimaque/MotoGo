@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "924627791320",
+    "project_id": "moto-go-eee1f",
+    "storage_bucket": "moto-go-eee1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924627791320:android:3d9d4ab891270a2aead6ad",
+        "android_client_info": {
+          "package_name": "com.apptcc.motogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924627791320-64omjoug2fmctqqoho9raorhv7obcg4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apptcc.motogo",
+            "certificate_hash": "500891decdca45ab19c8644367d061f661c47f8f"
+          }
+        },
+        {
+          "client_id": "924627791320-jcehrqhud78eqs08tpl8ec46e0jmvehf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmQGtPJ2wbEEeIgIO7jlJHu71l3C7aNBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924627791320-jcehrqhud78eqs08tpl8ec46e0jmvehf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
